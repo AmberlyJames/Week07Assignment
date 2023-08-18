@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;mysql-java&apos; to &apos;mysql-java-week07&apos;&#x0D;&#x0A;- Original element: &apos;mysql-java&apos;&#x0D;&#x0A;- Renamed element: &apos;mysql-java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;mysql-java&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=mysql-java" name="mysql-java-week07" references="true" stamp="1692298257127" version="1.0"/>
+</session>
