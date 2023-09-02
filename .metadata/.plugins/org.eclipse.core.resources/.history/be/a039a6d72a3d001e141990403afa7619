@@ -1,9 +1,0 @@
-package projects;
-
-public class ProjectsApp.App {
-
-	public static void main(String[] args) {
-
-	}
-
-}

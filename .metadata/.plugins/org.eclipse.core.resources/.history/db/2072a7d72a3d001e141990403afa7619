@@ -1,9 +1,0 @@
-package projects.dao;
-
-public class DbConnection {
-
-	public DbConnection() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
