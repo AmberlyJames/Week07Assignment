@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="projects.dao.DbConnection"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="projects.entity.Project"/>
     <fullyQualifiedTypeName name="provided.util.DaoBase"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
@@ -12,4 +11,12 @@
     <fullyQualifiedTypeName name="projects.exception.DbException"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="projects.entity.Material"/>
+    <fullyQualifiedTypeName name="projects.entity.Step"/>
+    <fullyQualifiedTypeName name="projects.entity.Category"/>
 </qualifiedTypeNameHistroy>
