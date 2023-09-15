@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="provided.util.DaoBase"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="projects.exception.DbException"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
@@ -19,4 +18,6 @@
     <fullyQualifiedTypeName name="projects.entity.Material"/>
     <fullyQualifiedTypeName name="projects.entity.Step"/>
     <fullyQualifiedTypeName name="projects.entity.Category"/>
+    <fullyQualifiedTypeName name="projects.exception.DbException"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
